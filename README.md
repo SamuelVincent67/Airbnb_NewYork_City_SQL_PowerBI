@@ -12,9 +12,9 @@ This reports provide an in-depth analysis of Airbnb listings in New York City an
 
 ## Questions
 
-1. Which hosts are the busiest host?
-2. What is different in host and areas?
-3. What is the distribution of rooms?
+1. What are the different areas and hosts?
+2. What is the distribution of rooms?
+3. Which host are the busiest host?
 4. What is the difference of traffic among different areas?
 
 ## Data Import 
@@ -53,6 +53,44 @@ Data Cleaning is extremely important in Data Analysis.
   ![Screenshot 2024-06-21 184229](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/16607ce2-893c-42ff-be9e-7716dba4e1dc)
 
   ![Screenshot 2024-06-21 184629](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/b64b4fab-0ad2-451f-920f-c8c1ca63aa97)
+
+## Data Analysis
+
+1. The different Hosts and Areas.
+
+   ![Screenshot 2024-06-21 201505](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/b98748cc-fe27-4d7e-9b0f-8f15862e6715)
+   The host with the most listings is Micheal, with a count of 418 listings and average reviews of 26.52.
+     
+   ![Screenshot 2024-06-21 201810](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/f6403a89-1fb1-4166-b57d-e625fdf59e57)
+   The neighbourhood group Brooklyn in Williamsburg has the highest listing count of about 3919, with an average price of $143.8.
+     
+2. Distribution of the Rooms.
+
+   ![Screenshot 2024-06-21 201951](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/9861f14a-1d83-431b-a48c-0ba35c29050d)
+   Majority of the tourist prefer "entire home/apt" (about 25400). Followed by the "private room" (about 22314). People are less likely to book a "shared room". This information can help us understand the distribution of different types available for rent.
+
+3. The busiest host.
+
+   ![Screenshot 2024-06-21 202140](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/b0c3247e-966c-4c38-be87-23a34cf5f973)
+   The busiest host is "Nalicia", with an average monthly review of about 18.12, which means it's quite popular in the area. Followed by "Dona" with average 13.9 average monthly reviews.
+
+4. Difference of traffic among different areas.
+
+   ![Screenshot 2024-06-21 202522](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/f1f73998-5e3d-4dce-b67c-c5bdd47bc93e)
+   The neighbourhood with the highest traffic is "East Elmhurst", with an average of 4.56 monthly reviews.
+
+## Dashboard
+
+   ![Screenshot 2024-06-21 203413](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/e409fd08-5960-4b7c-939c-3bd444a4fbe4)
+
+
+
+
+
+
+
+
+
 
 
 
