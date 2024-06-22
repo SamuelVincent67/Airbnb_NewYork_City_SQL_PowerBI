@@ -83,20 +83,27 @@ Data Cleaning is extremely important in Data Analysis.
 
    ![Screenshot 2024-06-21 203413](https://github.com/SamuelVincent67/Airbnb_NewYork_City_SQL_PowerBI/assets/123567789/e409fd08-5960-4b7c-939c-3bd444a4fbe4)
 
+## Key Insights
 
+1. Insights about difference Hosts and Areas:
+   - Nalicia leads with 18.1 average monthly reviews, followed by Dona (14.0), Aisling(13.4), Malini(13.2) and Anabell(13.0). This suggests that Nalicia might offers exceptional service or unique properties that resonates well with guests.
+   - Williamsburg has the highest number of listings at 3.9k, followed by Bedford-Stuyvesant(3.7k), Harlem(2.7k), Bushwick(2.5k) and Upper West side(2.0k). The popularity of these neighbourhoods could be due to their location, cultural significance or affordability.
 
+2. Insights about Distibution of Rooms:
+   - Entire homes/apartments make up 51.97% of listings and private rooms 45.66%.
+   - Shared rooms makes up 2.37% of listings, this distribution indicates a preference for privacy and space, as entire homes and private rooms constitute the majority of listings.
+  
+3. Insights about busiest host and why:
+   - Based on the average monthly reviews, Nalicia is the busiest host.
+   - High review counts typically indicates high guest turnover and satisfaction, suggesting that Nalicia is not only attracting but also pleasing large number of guests.
 
+4. Insights about differences in Traffic among different Areas:
+   - East Elmhurst leads with 4.6, closely followed by Silver Lake and Springfield Gardens (both at 4.3), and Rosebank and Huguenot (both at 3.8).
+   - The high traffic in these areas could be due to several factors such as proximity to tourist attractions, airports or overall affordability and accessibility.
 
+## Recommendations 
 
-
-
-
-
-
-
-
-
-
-
-
-
+1. **Focus on High performing Hosts and Areas:** Encourage hosts in high-traffic neighbourhoods to maintain or improve quality to strengthen their location advantage.
+2. **Marketing and Improved Strategies:** Increase marketing efforts in high listing areas like Wiilliamsburg and Bedford-Stuyvesant to attract more guests.
+3. **Support Hosts:** Provide targeted support and training for hosts in neighbourhoods with lower traffic to improve their competitiveness.
+4. **Diversification of Listings:** Promote variety in the types of rooms available, emphasizing the underrepresented shared rooms if market research indicates that there is a need for them.
